@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:a855f7,100:7873f5&height=200&section=header&text=Pooja%20K%20Kochalapurmath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20%26%20Python%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:a855f7,100:7873f5&height=180&section=header&text=Pooja%20K%20Kochalapurmath&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -9,8 +9,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-k-kochalapurmath"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://pooja-kochalapurmath.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF6EC4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Poojakk112&color=a855f7&style=for-the-badge&label=Profile+Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Poojakk112.Poojakk112&left_color=purple&right_color=pink" />
 </p>
+
+<h3 align="center">💻 Backend &amp; Python Developer</h3>
 
 ## 👩‍💻 About Me
 
@@ -89,10 +91,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Poojakk112&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Poojakk112&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 <p align="center">
