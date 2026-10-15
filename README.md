@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Spring+Boot+%26+Secure+REST+APIs;Node.js+Microservices;React+Full-Stack+Apps;Python+%7C+FastAPI+%7C+AI+Projects;Open+to+SDE+%2F+Backend+roles" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;NestJS+%7C+Spring+Boot+%7C+PostgreSQL;Python+%7C+FastAPI+%7C+AI+Projects;Open+to+Full+Stack+%2F+SDE+roles" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -12,15 +12,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Poojakk112.Poojakk112&left_color=purple&right_color=pink" />
 </p>
 
-<h3 align="center">💻 Backend &amp; Python Developer</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 ## 👩‍💻 About Me
 
-- 🎓 B.E. in **Artificial Intelligence & Data Science** (2021–2025)
-- 💼 Backend Developer Intern at **PearlThoughts**
+- 🎓 B.E. in **Artificial Intelligence & Data Science** (2020–2025)
+- 💼 Former Backend Developer Intern at **PearlThoughts** (built Schedula, a healthcare scheduling backend)
 - 🔧 I build **secure REST APIs**, **event-driven microservices** and **full-stack web apps**
 - 🌱 Exploring AI agents, LangGraph and cloud-native backends
-- 🚀 Open to **SDE / Backend Developer** roles
+- 🚀 Open to **Full Stack / Web Developer / SDE** roles
 - 📍 Bengaluru, India
 
 ## 🛠️ Tech Stack
@@ -38,6 +38,7 @@
 **Backend**
 
 <p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
@@ -52,6 +53,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
@@ -62,6 +66,7 @@
 **Databases, AI & Tools**
 
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -75,12 +80,14 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🩺 [Schedula](https://github.com/Poojakk112/schedula-pooja) | Healthcare appointment scheduling backend built during my PearlThoughts internship: JWT + role-based access, booking windows, cron reminders | NestJS · TypeScript · PostgreSQL |
 | 🔐 [HawkStack Secure API](https://github.com/Poojakk112/HawkStack-Secure-API) | Secure REST API with JWT auth, CRUD, file upload and validation | Java · Spring Boot · MySQL |
 | 🏥 [Hospital Management System](https://github.com/Poojakk112/Hospital-Management-Medical-Record-System) | Departments, doctors, patients, appointments and prescriptions | Java · Spring Boot |
 | 📨 [Microservices Notification System](https://github.com/Poojakk112/microservices-user-notification-system) | Event-driven services with API Gateway and NATS JetStream | Node.js · NATS · JWT |
-| 🎬 [Movie Discovery App](https://github.com/Poojakk112/movie-discovery-app) | Full-stack movie search using the TMDB API | React · TypeScript · Express |
+| 🎬 [Movie Discovery App](https://github.com/Poojakk112/movie-discovery-app) | Full-stack movie search with filters and wishlist ([live](https://movie-discovery-app-ashy.vercel.app)) | React · TypeScript · Express |
+| 📰 [Content Dashboard](https://github.com/Poojakk112/content-dashboard) | Personalized feed with drag-and-drop, debounced search, dark mode ([live](https://content-dashboard-rose-kappa.vercel.app)) | Next.js · TypeScript · Redux Toolkit |
 | 🤖 [AI-First CRM (HCP)](https://github.com/Poojakk112/ai-first-crm-hcp) | AI-powered CRM interaction module | React · FastAPI · LangGraph |
-| 🧬 [Blood Cell Classification](https://github.com/Poojakk112/blood-cell-classification-cnn) | CNN classifier with Grad-CAM interpretability | Python · Deep Learning |
+| 🧬 [White Blood Cancer Detection](https://github.com/Poojakk112/blood-cell-classification-cnn) | CNN model with 97% accuracy and Grad-CAM; exhibited at KSCST state-level program | Python · TensorFlow · CNN |
 
 ## 📊 GitHub Stats
 
