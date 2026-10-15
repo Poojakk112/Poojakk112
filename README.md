@@ -80,13 +80,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🩺 [Schedula](https://github.com/Poojakk112/schedula-pooja) | Healthcare appointment scheduling backend built during my PearlThoughts internship: JWT + role-based access, booking windows, cron reminders | NestJS · TypeScript · PostgreSQL |
+| 🩺 [Schedula](https://github.com/Poojakk112/schedula-pooja) | Healthcare appointment scheduling backend built during my PearlThoughts internship: JWT + role-based access, booking windows, cron reminders ([API docs](https://schedula-pooja.onrender.com/api)) | NestJS · TypeScript · PostgreSQL |
 | 🔐 [HawkStack Secure API](https://github.com/Poojakk112/HawkStack-Secure-API) | Secure REST API with JWT auth, CRUD, file upload and validation | Java · Spring Boot · MySQL |
 | 🏥 [Hospital Management System](https://github.com/Poojakk112/Hospital-Management-Medical-Record-System) | Departments, doctors, patients, appointments and prescriptions | Java · Spring Boot |
 | 📨 [Microservices Notification System](https://github.com/Poojakk112/microservices-user-notification-system) | Event-driven services with API Gateway and NATS JetStream | Node.js · NATS · JWT |
 | 🎬 [Movie Discovery App](https://github.com/Poojakk112/movie-discovery-app) | Full-stack movie search with filters and wishlist ([live](https://movie-discovery-app-ashy.vercel.app)) | React · TypeScript · Express |
 | 📰 [Content Dashboard](https://github.com/Poojakk112/content-dashboard) | Personalized feed with drag-and-drop, debounced search, dark mode ([live](https://content-dashboard-rose-kappa.vercel.app)) | Next.js · TypeScript · Redux Toolkit |
-| 🤖 [AI-First CRM (HCP)](https://github.com/Poojakk112/ai-first-crm-hcp) | AI-powered CRM interaction module | React · FastAPI · LangGraph |
+| 🤖 [AI-First CRM (HCP)](https://github.com/Poojakk112/ai-first-crm-hcp) | AI agent that logs doctor interactions, extracts entities, summarizes and suggests next steps ([live](https://ai-first-crm-hcp-sandy.vercel.app)) | React · FastAPI · LangGraph · Groq |
 | 🧬 [White Blood Cancer Detection](https://github.com/Poojakk112/blood-cell-classification-cnn) | CNN model with 97% accuracy and Grad-CAM; exhibited at KSCST state-level program | Python · TensorFlow · CNN |
 
 ## 📊 GitHub Stats
