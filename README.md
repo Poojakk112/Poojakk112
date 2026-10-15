@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-k-kochalapurmath"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://pooja-kochalapurmath.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF6EC4?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://poojakk112.github.io"><img src="https://img.shields.io/badge/Portfolio-FF6EC4?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Poojakk112.Poojakk112&left_color=purple&right_color=pink" />
 </p>
 
