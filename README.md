@@ -86,6 +86,9 @@
 | 📨 [Microservices Notification System](https://github.com/Poojakk112/microservices-user-notification-system) | Event-driven services with API Gateway and NATS JetStream | Node.js · NATS · JWT |
 | 🎬 [Movie Discovery App](https://github.com/Poojakk112/movie-discovery-app) | Full-stack movie search with filters and wishlist ([live](https://movie-discovery-app-ashy.vercel.app)) | React · TypeScript · Express |
 | 📰 [Content Dashboard](https://github.com/Poojakk112/content-dashboard) | Personalized feed with drag-and-drop, debounced search, dark mode ([live](https://content-dashboard-rose-kappa.vercel.app)) | Next.js · TypeScript · Redux Toolkit |
+| 🧩 [AI Agent Workflow Builder](https://github.com/Poojakk112/ai-workflow-builder) | n8n-style builder for chaining AI agent steps with org and role-scoped permissions ([live](https://ai-workflow-builder-pink.vercel.app)) | Next.js · Hasura GraphQL · Nhost |
+| 🔖 [Smart Bookmark App](https://github.com/Poojakk112/smart-bookmark-app) | Google sign-in bookmark manager with per-user data ([live](https://smart-bookmark-app-iota-three.vercel.app)) | Next.js · TypeScript · Supabase |
+| ♟️ [Chess Tournament Manager](https://github.com/Poojakk112/chess-tournament-app) | Player and tournament CRUD, random match pairing, live rankings ([live](https://chess-tournament-app-bice.vercel.app)) | SvelteKit · Prisma · PostgreSQL |
 | 🤖 [AI-First CRM (HCP)](https://github.com/Poojakk112/ai-first-crm-hcp) | AI agent that logs doctor interactions, extracts entities, summarizes and suggests next steps ([live](https://ai-first-crm-hcp-sandy.vercel.app)) | React · FastAPI · LangGraph · Groq |
 | 🧬 [White Blood Cancer Detection](https://github.com/Poojakk112/blood-cell-classification-cnn) | CNN model with 97% accuracy and Grad-CAM; exhibited at KSCST state-level program | Python · TensorFlow · CNN |
 
