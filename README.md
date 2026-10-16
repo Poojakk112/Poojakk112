@@ -80,7 +80,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🩺 [Schedula](https://github.com/Poojakk112/schedula-pooja) | Healthcare appointment scheduling backend built during my PearlThoughts internship: JWT + role-based access, booking windows, cron reminders ([API docs](https://schedula-pooja.onrender.com/api)) | NestJS · TypeScript · PostgreSQL |
+| 🩺 [Schedula](https://github.com/Poojakk112/schedula-pooja) | Healthcare appointment scheduling backend built during my PearlThoughts internship: JWT + role-based access, booking windows, cron reminders ([API docs](https://schedula-api-p9x8.onrender.com/api)) | NestJS · TypeScript · PostgreSQL |
 | 🔐 [HawkStack Secure API](https://github.com/Poojakk112/HawkStack-Secure-API) | Secure REST API with JWT auth, CRUD, file upload and validation | Java · Spring Boot · MySQL |
 | 🏥 [Hospital Management System](https://github.com/Poojakk112/Hospital-Management-Medical-Record-System) | Departments, doctors, patients, appointments and prescriptions | Java · Spring Boot |
 | 📨 [Microservices Notification System](https://github.com/Poojakk112/microservices-user-notification-system) | Event-driven services with API Gateway and NATS JetStream | Node.js · NATS · JWT |
